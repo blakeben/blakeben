@@ -40,6 +40,18 @@ body {
     margin-bottom: 20px;
 }
 
+/* About Me and Skills sections */
+#about,
+#skills {
+    padding: 30px; /* Reduce padding for a smaller and less obtrusive appearance */
+}
+
+#about h2,
+#skills h2 {
+    font-size: 1.5rem; /* Decrease the font size for section headings */
+    margin-bottom: 15px; /* Slightly reduce the margin for section headings */
+}
+
 /* Skills list */
 .skill-list {
     list-style: none; /* Remove bullets */
@@ -49,7 +61,7 @@ body {
 
 .skill-list li {
     font-weight: bold;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 /* Project styles */

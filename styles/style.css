@@ -1,0 +1,61 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background and foreground colors */
+body {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+    font-family: 'Open Sans', sans-serif; /* Use the specified font */
+}
+
+/* Style the header */
+header {
+    background-color: #000000; /* Black header background */
+    color: #ffffff; /* White text in the header */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the main sections */
+section {
+    padding: 20px;
+}
+
+/* Style the headings */
+h1, h2, h3 {
+    color: #000000; /* Black headings */
+}
+
+/* Style the unordered list */
+ul {
+    list-style-type: none; /* Remove bullet points */
+}
+
+/* Style the list items */
+li {
+    margin-bottom: 5px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #000000; /* Black footer background */
+    color: #ffffff; /* White text in the footer */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style project containers */
+.project {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #000000; /* Add a black border around projects */
+}
+
+/* Add hover effect to project containers */
+.project:hover {
+    background-color: #000000; /* Black background on hover */
+    color: #ffffff; /* White text on hover */
+}

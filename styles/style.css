@@ -52,10 +52,19 @@ footer {
     margin-bottom: 20px;
     padding: 10px;
     border: 1px solid #000000; /* Add a black border around projects */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition on hover */
 }
 
-/* Add hover effect to project containers */
+/* Add hover effect to project containers and change text color */
 .project:hover {
     background-color: #000000; /* Black background on hover */
     color: #ffffff; /* White text on hover */
+}
+
+/* Style project headers inside project containers */
+.project h3 {
+    color: #000000; /* Black project headers by default */
+    transition: color 0.3s; /* Smooth transition for text color */
+}
+
 }

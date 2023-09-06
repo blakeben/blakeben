@@ -22,7 +22,6 @@ body {
 .hero h1 {
     font-size: 3rem;
     margin-bottom: 10px;
-	color: #fff;
 }
 
 .tagline {
@@ -32,7 +31,7 @@ body {
 /* Main section styles */
 .section {
     padding: 50px;
-	text-align: center;
+    text-align: center;
 }
 
 .section h2 {
@@ -43,23 +42,23 @@ body {
 /* About Me and Skills sections */
 #about,
 #skills {
-    padding: 30px; /* Reduce padding for a smaller and less obtrusive appearance */
+    padding: 30px;
 }
 
 #about h2,
 #skills h2 {
-    font-size: 1.5rem; /* Decrease the font size for section headings */
-    margin-bottom: 15px; /* Slightly reduce the margin for section headings */
+    font-size: 1.5rem;
+    margin-bottom: 15px;
 }
 
 /* Skills list */
-.skill-list {
-    list-style: none; /* Remove bullets */
-    padding: 0; /* Remove default padding */
-    text-align: left; /* Align text to the left within the list */
+.skills-list {
+    list-style: none;
+    padding: 0;
+    text-align: left;
 }
 
-.skill-list li {
+.skills-list li {
     font-weight: bold;
     margin-bottom: 8px;
 }

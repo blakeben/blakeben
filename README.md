@@ -1,1 +1,1 @@
-[<img src="https://github.com/blakeben/blakeben/blob/46f4f8ecaf0f9e6fa04021fab137c39a56f3d16b/intro.gif" alt="👋 Hello! (github.com/blakeben(ben blake|benblake.dev)" title="👋 Hello! (github.com/blakeben(ben blake|benblake.dev)"/>](https://www.benblake.dev)
+[<img src="https://raw.githubusercontent.com/blakeben/blakeben/main/intro.gif" alt="👋 Hello! (github.com/blakeben(ben blake|benblake.dev)" title="👋 Hello! (github.com/blakeben(ben blake|benblake.dev)"/>](https://www.benblake.dev)

@@ -55,7 +55,7 @@ body {
 .skills-list {
     list-style: none;
     padding: 0;
-    text-align: left;
+    text-align: center;
 }
 
 .skills-list li {
